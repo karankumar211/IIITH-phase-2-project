@@ -113,14 +113,7 @@ Ensure you have Python 3.8+ installed. You also need a Kaggle account to fetch t
    cd Multimodal_Emotion_Recognition
    ```
 
-2. **Configure Kaggle Credentials**:
-   Place your `kaggle.json` API token under `~/.kaggle/kaggle.json` (Linux/macOS) or `C:\Users\<username>\.kaggle\kaggle.json` (Windows). Alternatively, export your credentials:
-   ```bash
-   export KAGGLE_USERNAME="your_kaggle_username"
-   export KAGGLE_KEY="your_kaggle_api_key"
-   ```
-
-3. **Install Dependencies**:
+2. **Install Dependencies**:
    ```bash
    pip install -r project/requirements.txt
    ```
