@@ -1,0 +1,14 @@
+# Environments
+mer_env/
+__pycache__/
+
+# Data
+data/
+*.wav
+
+# Models
+models/
+*.pth
+
+# OS files
+.DS_Store

@@ -1,0 +1,18 @@
+# PyTorch & Audio
+torch
+torchaudio
+transformers
+
+# Data & Features
+librosa
+soundfile
+pandas
+numpy
+kagglehub
+
+# Evaluation & UI
+scikit-learn
+matplotlib
+seaborn
+tqdm
+gradio
