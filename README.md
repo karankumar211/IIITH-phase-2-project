@@ -110,7 +110,8 @@ Ensure you have Python 3.8+ installed. You also need a Kaggle account to fetch t
 1. **Clone the Repository**:
    ```bash
    git clone <repository_url>
-   cd Multimodal_Emotion_Recognition
+   cd IIITH-phase-2-project
+   
    ```
 
 2. **Install Dependencies**:
@@ -118,14 +119,8 @@ Ensure you have Python 3.8+ installed. You also need a Kaggle account to fetch t
    pip install -r project/requirements.txt
    ```
 
----
 
-## 6. Execution Guide
 
-The pipelines are structured to run independently or end-to-end. Navigate to the `project` directory before running:
-```bash
-cd project
-```
 
 ### Step 1: Download the Dataset
 The dataset will be downloaded automatically when running `data_manager.py`:
