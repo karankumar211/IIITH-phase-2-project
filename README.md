@@ -145,10 +145,7 @@ python fusion_pipeline/train.py
 ```
 
 ### Step 4: Run End-to-End Evaluation
-To run the full evaluation suite, generate comparative reports, and construct the t-SNE plot:
-```bash
-python evaluate_all.py
-```
+run all the train.py files avaliable in fusion folder , speech and text to get the results 
 This script will:
 1. Load speech, text, and fusion checkpoints.
 2. Generate an academic comparative report under `Results/comparative_report.md`.
